@@ -1,6 +1,11 @@
 {
     "name": "pasya/onesender-laravel",
     "description": "Integrasi OneSender ke laravel",
+    "autoload": {
+        "psr-4": {
+            "Pasya\\OneSenderLaravel\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Ali",
