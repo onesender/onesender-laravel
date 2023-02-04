@@ -4,7 +4,7 @@ A laravel package to send notification to WhatsApp Channel.
 
 ## Install
 
-1. Install package melalui composer:
+1. Install require melalui composer:
 ```
 composer remove pasya/onesender-laravel
 ```
